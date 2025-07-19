@@ -91,16 +91,6 @@ src/
 - Platform-specific code is isolated
 - Easy to port to new microcontrollers
 
-## Current Implementation Status
-- Architecture and design patterns implemented
-- EMG readings and dataset generation functionality tested
-- Framework ready for full arm control implementation
-
 ## UML Class Diagram
 Below is the Software UML Diagram : 
 ![UML Diagram](UML-Diagram/UML-Diagram.png)
-
-## Testing
-- EMG readings functionality has been tested
-- Dataset generation system verified
-- Ready for further implementation of arm control features 
